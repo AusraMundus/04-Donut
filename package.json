@@ -1,0 +1,13 @@
+{
+  "name": "04-donut",
+  "version": "1.0.0",
+  "description": "Donut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server --host=localhost --port=4000"
+  },
+  "keywords": [],
+  "author": "Ausra <munduswebstudio@gmail.com> (https://github.com/AusraMundus)",
+  "license": "MIT"
+}
